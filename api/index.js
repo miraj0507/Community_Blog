@@ -13,7 +13,7 @@ dotenv.config();
 app.use(express.json());
 app.use("/images", express.static(path.join(__dirname, "/images")));
 
-mongoose.connect('mongodb+srv://miraj:miraj123@cluster0.2ftvv.mongodb.net/myBlogs?retryWrites=true&w=majority', {
+mongoose.connect('[use your own mongodb link]', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })

@@ -3,7 +3,7 @@ This is a Full-stack(MERN) react based blog application, Capable of doing all th
 
 ## DEMO VIDEO:
 
-### Watch the video here: https://drive.google.com/file/d/1bX8sjkKJuDgVqHyfSqkIpuzc9-vmCjjG/view?usp=sharing
+### Watch the video here:[DEMO VIDEO](https://drive.google.com/file/d/1bX8sjkKJuDgVqHyfSqkIpuzc9-vmCjjG/view?usp=sharing)
 # Technology Stack
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="50px" height="50px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="50px" height="50px"></a> 
